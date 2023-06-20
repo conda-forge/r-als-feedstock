@@ -1,11 +1,11 @@
-About r-als
-===========
+About r-als-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-als-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ALS
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-als-feedstock/blob/main/LICENSE.txt)
 
 Summary: Alternating least squares is often used to resolve components contributing to data with a bilinear structure; the basic technique may be extended to alternating constrained least squares.  Commonly applied constraints include unimodality, non-negativity, and normalization of components. Several data matrices may be decomposed simultaneously by assuming that one of the two matrices in the bilinear decomposition is shared between datasets.
 
